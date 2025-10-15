@@ -14,5 +14,5 @@ public class Producto {
     private String nombreProducto;
     private boolean disponible;
     private int existencias;
-    //private List<Reseña> reseña;
+    private List<Review> reseñas;
 }

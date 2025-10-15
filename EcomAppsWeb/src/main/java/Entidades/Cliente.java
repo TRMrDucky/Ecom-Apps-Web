@@ -9,5 +9,11 @@ package Entidades;
  * @author 52644
  */
 public class Cliente {
-    
+    private String nombreCompleto;
+    private TipoUsuario tipoUsuario;
+    private String correoElectronico;
+    private String telefono;
+    private String password;
+    private String direccion;
+    private MetodoPago metodoPago;
 }
