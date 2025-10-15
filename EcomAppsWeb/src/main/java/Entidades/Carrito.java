@@ -9,5 +9,6 @@ package Entidades;
  * @author 52644
  */
 public class Carrito {
-    
+    private Long idCarrito;
+    private float total;
 }

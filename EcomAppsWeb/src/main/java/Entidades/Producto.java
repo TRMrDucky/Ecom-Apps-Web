@@ -9,5 +9,10 @@ package Entidades;
  * @author 52644
  */
 public class Producto {
-    
+    private Long idProducto;
+    private String  categoria; //Cambiar a enum
+    private String nombreProducto;
+    private boolean disponible;
+    private int existencias;
+    //private List<Reseña> reseña;
 }
