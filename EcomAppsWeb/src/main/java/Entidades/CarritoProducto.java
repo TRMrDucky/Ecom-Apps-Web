@@ -9,5 +9,6 @@ package Entidades;
  * @author 52644
  */
 public class CarritoProducto {
-    
+    private long idCarrito;
+    private long idProducto;
 }
